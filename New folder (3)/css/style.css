@@ -2,9 +2,9 @@
 
 
 .menu{
-    width:  900px;
+    width:  803px;
     margin:  0 auto;
-	margin-bottom:120px;
+	margin-bottom:110px;
 }
 .menu ul{
     list-style:  none;
@@ -18,13 +18,15 @@
 	position:relative;
 }
 .menu ul li a{
-    text-decoration:  none;
+   font-family: "Times New Roman";
+   font-style: normal;
+   font-size: 19px;
     color: #7eca0e;
     padding: 13px;
     display:  block;
 }
 .menu ul li a:hover{
-	color:#518407;
+	color:black;
 	background:#999;
 }
 
@@ -45,7 +47,7 @@ opacity:0;
 .menu ul li ul.dropdown li{
 	float:none;
 	background:#333;
-	width: 200px;
+	width: 148px;
 }
 .menu ul li ul.dropdown li a{text-align:  center;display:  block;}
 
@@ -62,16 +64,3 @@ opacity:0;
 		transform:rotateY(360deg);
 }
 
-
-
-
-.button1 {
-    background-color: white; 
-    color: black; 
-    
-}
-
-.button1:hover {
-    background-color: #4CAF50;
-    color: white;
-}
