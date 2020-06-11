@@ -1,3 +1,18 @@
+.column, .social_profiles a {transition: all 0.9s ease 0s;
+-moz-transition: all 0.9s ease 0s; 
+-webkit-transition:all 0.9s ease 0s;
+-o-transition: all 0.9s ease 0s;}
+.column {text-align:right}
+.social_profiles{}
+.social_profiles a{ display: inline-block;  margin-right:0px; margin-top: 0px; padding:5px 3px; }
+.social_profiles a:hover{padding: 20px 8px;transform:scale(1.6); }
+
+
+
+
+
+
+
 * {margin:0;padding:0}
 body {font-family:arial;font-size:14px;line-height:18px;color:#444;}
 a {text-decoration:none;color:#000}
@@ -36,7 +51,7 @@ img {border:none;max-width:100%;height:auto}
 	70%{color:#aaaaaa;}
 	80%{color:#44ffaa;}
 	90%{color:#2233aa;}
-	100%{#margin-top:1000px; font-size:80px}
+	100%{#margin-top:1000px; font-size:70px}
 
 
 }
