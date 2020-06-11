@@ -1,0 +1,11 @@
+
+
+#ContactForm {padding-top:120px;display:block;margin-bottom:70px;}
+#ContactForm .wrapper {overflow:inherit;min-height:30px;line-height:26px;color:#FFFFFF;font:15px Arial,Helvetica, sans-serif;}
+#ContactForm .textarea_box {min-height:189px;color:#FFFFFF;font:15px Arial,Helvetica, sans-serif;}
+#ContactForm  span {float:left;width:80px}
+#ContactForm a {margin-left:80px;float:left;width:100px;padding:0;color:#FFFFFF;background:#5F870E;text-align:center;font:20px Arial,Helvetica, sans-serif;text-decoration:none;}
+#ContactForm .input  {margin:0;width:350px;height:18px;background:none;padding:4px 10px;color:#000;font:14px Arial,Helvetica, sans-serif}
+#ContactForm textarea  {overflow:auto;width:380px;height:160px;background:none;padding:4px 10px;font:25px Arial, Helvetica, sans-serif;margin:0}
+#ContactForm  .bg {background:#fff; position:relative;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;float:left}
+
